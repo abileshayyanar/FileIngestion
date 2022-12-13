@@ -1,7 +1,7 @@
 file_type: csv 
 dataset_name: acquire-valued-shoppers-challenge
 file_name: transactions
-table_nameL: edsurv
+table_name: dataTable
 inbound_delimiter: ","
 outbound_delimiter: "|"
 skip_leading_rows: 1
