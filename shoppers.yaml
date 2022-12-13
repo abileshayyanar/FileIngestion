@@ -1,0 +1,14 @@
+file_type: csv 
+dataset_name: acquire-valued-shoppers-challenge
+file_name: transactions
+table_nameL: edsurv
+inbound_delimeter: ","
+outbound_delimeter: "|"
+skip_leading_rows: 1
+columns:
+  - offer
+  - category
+  - quantity
+  - company
+  - offervalue
+  - brand
